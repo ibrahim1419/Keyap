@@ -163,9 +163,9 @@ USE_TZ = True
 # STATIC FILES SETTINGS
 # ==============================================================================
 
-# STATIC_URL = "/static/"
+STATIC_URL = "/static/"
 
-# STATIC_ROOT = BASE_DIR.parent.parent / "static"
+STATIC_ROOT = BASE_DIR.parent.parent / "static"
 
 # ==============================================================================
 # MEDIA FILES SETTINGS
